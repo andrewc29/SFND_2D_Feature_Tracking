@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\andre\Documents\Udacity Courses\Sensor Fusion\SFND_2D_Feature_Tracking\build\CMakeFiles\1a8801c2d1852f9e2a25106099f7e624\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B423873-38DF-31D9-BCF2-E27B033F6D0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

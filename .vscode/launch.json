@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Executable",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "C:/Users/andre/Documents/Udacity Courses/Sensor Fusion/SFND_2D_Feature_Tracking/build/Debug/2D_feature_tracking.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/Users/andre/Documents/Udacity Courses/Sensor Fusion/SFND_2D_Feature_Tracking",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+        }
+    ]
+}
